@@ -1,5 +1,5 @@
 #include<iostream>
 
 int main() {
-  cout <<"test1 branch" << endl;
+  cout <<"conflict 해결 성공" << endl;
 }
