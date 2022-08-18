@@ -9,4 +9,7 @@ int main() {
 
   for (auto v : a)
     cout << v << endl;
+
+  //update branch에서 업데이트만 해결
+  cout << "update 해결!!" << endl;
 }
